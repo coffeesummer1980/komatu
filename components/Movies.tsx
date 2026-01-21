@@ -19,8 +19,8 @@ const activities = [
     },
     {
         id: 2,
-        title: "Coming Soon",
-        youtubeId: "",
+        title: "活動の様子",
+        youtubeId: "vMjkAt4F0-A",
         isShort: true
     }
 ];
